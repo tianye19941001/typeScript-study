@@ -1,1 +1,2 @@
 # typeScript stydy
+## thanks
